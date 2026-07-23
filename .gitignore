@@ -1,0 +1,5 @@
+*.db
+*.csv
+fetch_log.txt
+__pycache__/
+.env
